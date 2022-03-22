@@ -1,0 +1,29 @@
+h1 {
+    padding-top: 10px;
+    color: white;
+}
+
+
+a {
+    color: white;
+}
+
+a:hover {
+    color: white;
+}
+
+body {
+    background-color: rgb(15, 15, 15);
+}
+
+.part1 {
+    background-color: rgb(23, 23, 24);
+    width: auto;
+    height: 350px;
+}
+
+.part2 {
+    background-color: rgb(27, 27, 29);
+    width: auto;
+    height: 350px;
+}
